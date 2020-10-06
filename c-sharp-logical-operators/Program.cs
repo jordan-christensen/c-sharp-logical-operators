@@ -10,7 +10,7 @@ namespace Operators
             var b = 2;
             var c = 3;
 
-            Console.WriteLine(c > b && c > a);
+            Console.WriteLine(c > b || c == a);
         }
     }
 }
