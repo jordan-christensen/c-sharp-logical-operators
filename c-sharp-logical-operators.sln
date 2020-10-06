@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-logical-operators", "c-sharp-logical-operators\c-sharp-logical-operators.csproj", "{FEBE16F2-F607-487C-94E3-339CE545B7E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBE16F2-F607-487C-94E3-339CE545B7E0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FEBE16F2-F607-487C-94E3-339CE545B7E0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FEBE16F2-F607-487C-94E3-339CE545B7E0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FEBE16F2-F607-487C-94E3-339CE545B7E0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
